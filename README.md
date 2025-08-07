@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td>
-<img src="logo.png" alt="Potato Project Logo" width="200%" height="200%">
+<img src="OIP.jpg" alt="Potato Project Logo" width="200%" height="200%">
 </td>
 <td>
 <b><i>This AI-powered web app lets users detect potato leaf diseases like Early Blight or Late Blight just by uploading a leaf image. Trained using real plant disease data, the app uses a TensorFlow CNN model and a sleek React frontend. Smart, fast, and simple crop health monitoring for everyone.</i></b>
