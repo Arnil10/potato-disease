@@ -1,5 +1,5 @@
 # 🥔 Potato Leaf Disease Detection – Smart Crop Health Identifier  
-**🔗 Live Demo**: [https://your-frontend-url.netlify.app](https://your-frontend-url.netlify.app)  
+**🔗 Live Demo**: [https://your-frontend-url.netlify.app](https://leafdiseasedetector1.netlify.app/)]
 
 <table>
 <tr>
