@@ -1,11 +1,10 @@
 # 🥔 Potato Leaf Disease Detection – Smart Crop Health Identifier  
 **🔗 Live Demo**: [https://your-frontend-url.netlify.app](https://your-frontend-url.netlify.app)  
-**📦 GitHub**: [https://github.com/your-username/potato-leaf-disease](https://github.com/your-username/potato-leaf-disease)
 
 <table>
 <tr>
 <td>
-<img src="public/logo.png" alt="Potato Project Logo" width="200%" height="200%">
+<img src="logo.png" alt="Potato Project Logo" width="200%" height="200%">
 </td>
 <td>
 <b><i>This AI-powered web app lets users detect potato leaf diseases like Early Blight or Late Blight just by uploading a leaf image. Trained using real plant disease data, the app uses a TensorFlow CNN model and a sleek React frontend. Smart, fast, and simple crop health monitoring for everyone.</i></b>
