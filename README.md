@@ -92,11 +92,3 @@ The app will send the image to the backend and return:
 Based on the result, users can take proper action (treat for disease or confirm health).
 
 ---
-
-## ⚙️ Setup Locally (Optional)
-
-### Clone the repo
-
-```bash
-git clone https://github.com/your-username/potato-leaf-disease.git
-cd potato-leaf-disease
